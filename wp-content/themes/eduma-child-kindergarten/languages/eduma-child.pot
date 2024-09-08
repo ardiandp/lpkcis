@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-01 09:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: eduma-child-kindergarten/functions.php:40
+msgid "Duration Info"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:43
+msgid "Display duration info"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:47
+#: eduma-child-kindergarten/functions.php:50
+#: eduma-child-kindergarten/functions.php:141
+msgid "Class Size"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:54
+#: eduma-child-kindergarten/functions.php:261
+msgid "Available Seats"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:57
+msgid "Enter available seats"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:61
+#: eduma-child-kindergarten/functions.php:149
+#: eduma-child-kindergarten/functions.php:256
+msgid "Years Old"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:64
+msgid "Enter age"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:68
+#: eduma-child-kindergarten/functions.php:282
+#: eduma-child-kindergarten/functions.php:285
+msgid "Price"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:71
+msgid "Enter course price"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:75
+msgid "Unit"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:78
+msgid "Enter unit, for example, p/h, person/hour"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:79
+msgid "p/h"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:235
+msgid "Course Features"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:239
+msgid "Duration"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:244
+msgid "Activities"
+msgstr ""
+
+#: eduma-child-kindergarten/functions.php:250
+msgid "Class Sizes"
+msgstr ""
+
+#: eduma-child-kindergarten/learnpress-v3/content-single-course.php:47
+#: eduma-child-kindergarten/learnpress-v3/addons/coming-soon-courses/content-single-course.php:48
+msgid "Register"
+msgstr ""
+
+#: eduma-child-kindergarten/inc/widgets/login-popup/base.php:61
+msgid "Not a member yet? "
+msgstr ""
+
+#: eduma-child-kindergarten/inc/widgets/login-popup/base.php:61
+msgid "Register now"
+msgstr ""

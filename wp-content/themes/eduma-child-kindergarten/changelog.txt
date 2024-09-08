@@ -1,0 +1,4 @@
+/* Eduma Child Kindergarten 1.0 - 2016-06-20 */
++ Eduma Child Theme - Kindergarten was born :)
+/* Eduma Child Kindergarten 1.1 - 2017-02-17 */
++ Update to compatible with LearnPress latest version.

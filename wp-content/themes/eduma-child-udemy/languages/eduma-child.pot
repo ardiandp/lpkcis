@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-01 10:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: eduma-child-udemy/functions.php:182
+#: eduma-child-udemy/functions.php:183
+#: eduma-child-udemy/functions.php:187
+msgid "Related Course"
+msgstr ""
+
+#: eduma-child-udemy/functions.php:315
+msgid "ABOUT INSTRUCTOR"
+msgstr ""
+
+#: eduma-child-udemy/functions.php:628
+#, php-format
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: eduma-child-udemy/functions.php:631
+#, php-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: eduma-child-udemy/functions.php:634
+#, php-format
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: eduma-child-udemy/functions.php:637
+#, php-format
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: eduma-child-udemy/functions.php:652
+#: eduma-child-udemy/functions.php:656
+msgid "h"
+msgstr ""
+
+#: eduma-child-udemy/functions.php:652
+#: eduma-child-udemy/functions.php:654
+msgid "m"
+msgstr ""
+
+#: eduma-child-udemy/learnpress-v3/single-course/price.php:31
+msgid "Price"
+msgstr ""
+
+#: eduma-child-udemy/learnpress-v3/single-course/tabs/curriculum.php:34
+msgid "Course Curriculum"
+msgstr ""
+
+#: eduma-child-udemy/learnpress-v3/single-course/tabs/curriculum.php:43
+msgid "Total learning: "
+msgstr ""
+
+#: eduma-child-udemy/learnpress-v3/single-course/tabs/curriculum.php:45
+#, php-format
+msgid "%d lesson"
+msgid_plural "%d lessons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: eduma-child-udemy/learnpress-v3/single-course/tabs/curriculum.php:49
+#, php-format
+msgid " / %d quiz"
+msgid_plural " / %d quizzes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: eduma-child-udemy/learnpress-v3/single-course/tabs/curriculum.php:64
+msgid "Time: "
+msgstr ""
+
+#: eduma-child-udemy/inc/widgets/courses/tabs-v3.php:137
+msgid "Last updated: "
+msgstr ""
+
+#: eduma-child-udemy/inc/widgets/courses/tabs-v3.php:144
+msgid " lectures"
+msgstr ""
+
+#: eduma-child-udemy/inc/widgets/courses/tabs-v3.php:144
+msgid " lecture"
+msgstr ""
+
+#. Name of the theme
+msgid "Eduma Child"
+msgstr ""
+
+#. Description of the theme
+msgid "Eduma Child Theme for Udemy Demo"
+msgstr ""
+
+#. URI of the theme
+msgid "http://educationwp.thimpress.com/"
+msgstr ""
+
+#. Author of the theme
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://thimpress.com"
+msgstr ""
